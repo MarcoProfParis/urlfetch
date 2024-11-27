@@ -7,7 +7,8 @@ window.function = async function(url) {
     try {
         // Define request options
         const requestOptions = {
-            method: 'GET'
+            method: 'GET',
+            mode: 'no-cors'
         };
 
         // Fetch the data from the URL
