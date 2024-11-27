@@ -1,0 +1,16 @@
+ [{
+  "kind": "column",
+  "name": "Fetch Url",
+  "description": "",
+  "author": "Marc Olivier Reula",
+  "params": [
+    {
+      "name": "url",
+      "displayName": "URL",
+      "type": "string"
+    }
+  ],
+  "result": {
+    "type": "string"
+  }
+}]
